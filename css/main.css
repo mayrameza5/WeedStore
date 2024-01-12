@@ -1,0 +1,64 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(76, 192, 148);
+    color: white;
+
+}
+.logo{
+    margin: 1rem;
+}
+
+ul{
+    display: flex;
+    padding: 2rem;
+    column-gap: 5rem;
+}
+
+
+
+main{
+    background-color: black;
+    color: white;
+}
+
+section{
+    background-color: black;
+    color: white;
+    padding: 1rem
+}
+
+.titulo{
+    padding: 2rem;
+    
+}
+
+.Productos0{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    padding: 1rem;
+
+}
+
+.section1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    row-gap: 1rem;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 4rem;
+    padding: 6rem;
+    background-color: grey;
+}
+
