@@ -49,18 +49,7 @@ main .herotexto {
 }
 main .herotexto .tituloC {
   padding: 5rem;
-  font-size: 100px;
-}
-
-.heroimg {
-  max-width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-block: 1.5rem;
-  overflow: hidden;
-  border-radius: 100px;
-  margin-right: 50px;
+  font-size: 1000px;
 }
 
 section {
@@ -126,18 +115,4 @@ footer {
   padding: 2rem;
   color: black;
   text-align: center;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.headerContacto {
-  background-color: rgb(221, 221, 34);
-}
-
-.h12 {
-  background-color: black;
 }/*# sourceMappingURL=estilo.css.map */

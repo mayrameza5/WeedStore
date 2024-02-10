@@ -1,0 +1,37 @@
+main {
+    background-color: black;
+    color: white;
+     
+     .hero {
+        background-color: rgb(38, 9, 66);
+        display: flex; }
+    
+        .herotexto{ 
+            padding: 2rem;
+            font-size: 1.5rem;
+            
+            .tituloC {
+                padding: 5rem;
+                font-size: 100px;
+            } 
+    }
+}
+
+
+.heroimg {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-block: 1.5rem;
+    overflow: hidden;
+    border-radius: 100px;
+    margin-right: 50px;
+   
+}
+
+section{
+    background-color: black;
+    color: white;
+    padding: 1rem
+}

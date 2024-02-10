@@ -1,0 +1,45 @@
+.Productos0{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+.tarjetas{
+    display: flex;
+}
+
+.recuadros{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.titulos{
+font-family: "Permanent Marker", cursive;
+font-size: 2rem;
+padding: 1rem;
+}
+
+
+.tarjetaimg {
+    max-width: 100%;
+    
+}
+
+.herofoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-block: 1.5rem;
+    overflow: hidden;
+    border-radius: 100px;
+    margin-right: 50px;
+   
+}
+
+.titulo{ font-size: 2.5rem;
+}
